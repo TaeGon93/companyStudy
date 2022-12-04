@@ -1,4 +1,4 @@
-package inheritancePolymorphism;
+package characteristic;
 
 public class Animal {
 	//추상화 : 필수적(공통)으로 사용되는 요소들만 표현해둔 것

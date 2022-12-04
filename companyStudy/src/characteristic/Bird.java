@@ -1,4 +1,4 @@
-package inheritancePolymorphism;
+package characteristic;
 
 
 public class Bird extends Animal{ //상속
