@@ -1,6 +1,7 @@
 package srp;
 
 public class Car {
+	//한 클래스는 한가지 역할만 책임지는 원칙
 	//한 클래스가 많은 역할을 하는 경우
 	private int four_engine = 4;
 	private int six_engine = 6;
